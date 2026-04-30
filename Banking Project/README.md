@@ -1,12 +1,12 @@
-# 💳 Banking Management System (Java)
+#  Banking Management System (Java)
 
-## 📌 Project Description
+ Project Description
 This is a console-based Banking Management System developed using Java.  
 The project demonstrates core Object-Oriented Programming (OOP) concepts such as abstraction, inheritance, and polymorphism.
 
 ---
 
-## 🚀 Features
+ Features
 - Create Bank Account
 - Deposit Money
 - Withdraw Money
@@ -14,7 +14,7 @@ The project demonstrates core Object-Oriented Programming (OOP) concepts such as
 
 ---
 
-## 🧠 OOP Concepts Used
+ OOP Concepts Used
 - Abstraction
 - Inheritance
 - Polymorphism
@@ -22,7 +22,7 @@ The project demonstrates core Object-Oriented Programming (OOP) concepts such as
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Java
 - VS Code
 
